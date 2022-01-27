@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/classes.iml" filepath="$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/com.epam.training.student_Oleksii_Ivanov.iml" filepath="$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/com.epam.training.student_Oleksii_Ivanov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/fundamental.iml" filepath="$PROJECT_DIR$/com.epam.training.student_Oleksii_Ivanov/fundamental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ta_training-java.iml" filepath="$PROJECT_DIR$/.idea/ta_training-java.iml" />
+    </modules>
+  </component>
+</project>
