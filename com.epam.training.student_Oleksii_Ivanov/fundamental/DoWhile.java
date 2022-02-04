@@ -8,7 +8,7 @@ public class DoWhile {
             if(value > 44 && value < 48){
                 break;
             }
-            System.out.println(value);
+            System.out.println("' Hello");
         } while(value < 40);
 
     }
